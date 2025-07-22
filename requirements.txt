@@ -1,4 +1,5 @@
 langchain
+setuptools
 python-dotenv
 ipykernel
 langchain_groq

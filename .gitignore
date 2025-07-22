@@ -1,3 +1,4 @@
 env
 .env
-document_portal.egg-info
+ document_processing_portal.egg-info/
+.idea/
