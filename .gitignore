@@ -5,3 +5,4 @@ env
 .venv
 notebook/.ipynb_checkpoints/
 build/
+.venv/
