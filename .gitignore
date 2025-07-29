@@ -6,3 +6,7 @@ env
 notebook/.ipynb_checkpoints/
 build/
 .venv/
+logs/
+*.pyc
+test.py
+__pycache__/

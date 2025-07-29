@@ -9,5 +9,6 @@ pypdf
 faiss-cpu
 jupyter
 notebook
-
+structlog
+PyMuPDF
 -e .
