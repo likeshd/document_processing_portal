@@ -4,6 +4,7 @@ env
 .idea/
 .venv
 notebook/.ipynb_checkpoints/
+.ipynb_checkpoints/
 build/
 .venv/
 logs/
