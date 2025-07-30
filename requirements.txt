@@ -11,5 +11,4 @@ faiss-cpu
 jupyter
 notebook
 structlog
-
 -e .
