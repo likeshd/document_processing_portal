@@ -7,3 +7,5 @@ python -m pip install -e .
 # python -m app.py
 # To run the Notebook, use the following command:
 jupyter notebook
+
+# set LLM_PROVIDER=google     # to change the LLM provider
