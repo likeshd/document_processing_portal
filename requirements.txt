@@ -11,4 +11,6 @@ faiss-cpu
 jupyter
 notebook
 structlog
+Pandas
+
 -e .
