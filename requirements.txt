@@ -12,5 +12,6 @@ jupyter
 notebook
 structlog
 Pandas
+streamlit
 
 -e .
