@@ -18,6 +18,8 @@ load_dotenv()
 
 
 class ConversationalRAG:
+
+    """A class to handle Conversational Retrieval-Augmented Generation (RAG) using LangChain."""
     def __init__(self, session_id: str, retriever):
         self.log = CustomLogger().get_logger(__name__)
         self.session_id = session_id
