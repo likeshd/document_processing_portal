@@ -13,5 +13,6 @@ notebook
 structlog
 Pandas
 streamlit
-
+#pytest
+#langchain-core[tracing]
 -e .
