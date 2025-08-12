@@ -19,6 +19,11 @@ src/document_compare/__init__.py
 src/document_compare/data_ingestion.py
 src/document_compare/document_comparison.py
 src/multi_document_chat/__init__.py
+src/multi_document_chat/contextualcompression.py
+src/multi_document_chat/data_ingestion.py
+src/multi_document_chat/evaluation.py
+src/multi_document_chat/mmr.py
+src/multi_document_chat/retrieval.py
 src/single_document_chat/__init__.py
 src/single_document_chat/data_ingestion.py
 src/single_document_chat/retrieval.py
