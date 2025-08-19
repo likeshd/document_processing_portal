@@ -12,3 +12,6 @@ logs/
 test.py
 __pycache__/
 archive/
+data/
+faiss_index/
+
